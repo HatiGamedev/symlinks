@@ -1,6 +1,6 @@
 # Symlinks
 
-Symlinks is a small python tool to setup and share symlink seetups for multiple platforms.
+Symlinks is a small python tool to setup and share symlink setups for multiple platforms.
 
 Generally I use it to avoid having game project plugins / git projects contained inside a library folder.
 Most useful it is to strip out specific parts of bigger (git) repositories. To avoid dealing with sub-folders.
